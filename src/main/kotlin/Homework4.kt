@@ -29,7 +29,7 @@ class Homework4 {
     val text4: String = "SpaceX"
     val boolean2: Boolean = true
     val text5: String = "смайл" // двойные кавычки ""
-    val letter2:  = '65535' //кавычки '' Для Char слишком много символов, для String ошибка в кавычках
+    //val letter2:  = '65535' //кавычки '' Для Char слишком много символов, для String ошибка в кавычках
     val long4: Long = 72057594037927935L
     val float4: Float = 2.71828f
     val double4: Double = 101.0101
