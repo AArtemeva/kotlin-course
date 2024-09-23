@@ -1,6 +1,6 @@
 package org.artemyeva
 
-class Homework7 {
+class Homework6 {
 
     fun main() {
         val month = 1
