@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85fe58ce-d253-4f98-aa3d-bd115bdeba97" name="Changes" comment="домашка">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Homework7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Homework7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Homework7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Homework6.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +87,7 @@
       <workItem from="1727000686803" duration="6395000" />
       <workItem from="1727017654910" duration="325000" />
       <workItem from="1727026340588" duration="1358000" />
+      <workItem from="1727074475540" duration="660000" />
     </task>
     <task id="LOCAL-00001" summary="домашка">
       <option name="closed" value="true" />
@@ -105,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727017926856</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="домашка">
+      <option name="closed" value="true" />
+      <created>1727074487879</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727074487879</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
