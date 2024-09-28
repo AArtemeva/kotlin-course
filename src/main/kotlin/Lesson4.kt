@@ -1,6 +1,6 @@
 package org.artemyeva
 
-class Homework4 {
+class Lesson4 {
     val int: Int = 42
     val long: Long = 98765432123456789L
     val float: Float = 23.45f

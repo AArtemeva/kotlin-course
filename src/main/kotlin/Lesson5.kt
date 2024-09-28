@@ -1,6 +1,6 @@
 package org.artemyeva
 
-class Homework5 {
+class Lesson5 {
     /*Простой уровень
     1. (14 - 4 <= 10) || (6 / 2 != 3)
     true || false = true

@@ -1,6 +1,6 @@
 package org.artemyeva
 
-class Homework3 {
+class Lesson3 {
     val event: String = "Hakaton" //  Название мероприятия
     var date: String = "10.10.2024" // Дата проведения
     val place: String = "Moscow" // Место проведения

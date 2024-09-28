@@ -1,6 +1,6 @@
 package org.artemyeva
 
-class Homework7 {
+class Lesson7 {
     //Цикл for
     //Прямой диапазон
     fun main () {
