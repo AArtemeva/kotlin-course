@@ -60,6 +60,23 @@ class Lesson8 {
         }
         println(result)
     }
+    //Дополнительные задания
+    //Задание 1
+    fun method () {
+        val words = "СтроКа из неСКольких сЛов"
+        val string1 = words.split(" ")
+        println(string1)
+        var all = ""
+        for (a in string1) {
+            val word = a.lowercase().capitalize()
+            if (all == "") {
+                all = all + word
+            } else {
+                all = all + " " + word
+            }
+        }
+        println(all)
+    }
 }
 
 fun main() {
@@ -73,5 +90,7 @@ fun main() {
 //    lesson8.cardMasking()
 //    lesson8.mail()
 //    lesson8.extractFileName()
-    lesson8.phrase()
+//    lesson8.phrase()
+    //Дополнительные задания
+    lesson8.method()
 }
