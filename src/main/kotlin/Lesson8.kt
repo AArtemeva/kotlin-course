@@ -53,13 +53,12 @@ class Lesson8 {
         val abbreviation = "Объектно-ориентированное программирование"
         val abr1 = abbreviation.split("-", " ")
         println(abr1)
-        var result: String
+        var result = ""
         for (s in abr1) {
-            println(s.first().uppercase())
-            val result1 = ""
-            val result2 = ""
-            val result3 = ""
+            result = result + s.first().uppercase()
+            println("result = $result")
         }
+        println(result)
     }
 }
 
