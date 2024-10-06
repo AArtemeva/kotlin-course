@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85fe58ce-d253-4f98-aa3d-bd115bdeba97" name="Changes" comment="Homework">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Lesson10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Lesson9.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Lesson8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Lesson8.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +60,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Gradle.Build kotlin-course.executor": "Run",
+    "Kotlin.Lesson10Kt.executor": "Run",
     "Kotlin.Lesson8Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -73,7 +75,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.Lesson10Kt">
+    <configuration name="Lesson10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.artemyeva.Lesson10Kt" />
+      <module name="kotlin-course.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lesson8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.artemyeva.Lesson8Kt" />
       <module name="kotlin-course.main" />
@@ -83,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Lesson10Kt" />
         <item itemvalue="Kotlin.Lesson8Kt" />
       </list>
     </recent_temporary>
@@ -108,7 +118,8 @@
       <workItem from="1727017654910" duration="325000" />
       <workItem from="1727026340588" duration="1358000" />
       <workItem from="1727074475540" duration="3319000" />
-      <workItem from="1727516391838" duration="25050000" />
+      <workItem from="1727516391838" duration="26188000" />
+      <workItem from="1728202408433" duration="9573000" />
     </task>
     <task id="LOCAL-00001" summary="домашка">
       <option name="closed" value="true" />
@@ -190,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727620588892</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Homework">
+      <option name="closed" value="true" />
+      <created>1727623609835</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727623609835</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
