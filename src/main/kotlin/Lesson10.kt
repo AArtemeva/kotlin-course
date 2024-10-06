@@ -98,12 +98,13 @@ class Lesson10 {
             println("$element -> ${if(element % 2 == 0) "четное" else "нечетное"}")
             //Написать напротив каждого элемента четное или нечетное
         }
-
-        //Задача 10. Поиск значения в массиве
-        fun arrayTask10(array: Array<String>, elem: String){
-
-        }
     }
+
+    //Задача 10. Поиск значения в массиве
+    fun arrayTask10(array: Array<String>, elem: String){
+
+    }
+
 }
 
 fun main() {
