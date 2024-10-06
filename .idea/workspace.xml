@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85fe58ce-d253-4f98-aa3d-bd115bdeba97" name="Changes" comment="Homework">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Lesson10_Lists.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Lesson10_Lists.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Lesson9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Lesson9.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,7 @@
     "Gradle.Build kotlin-course.executor": "Run",
     "Kotlin.Lesson10Kt.executor": "Run",
     "Kotlin.Lesson10_ListsKt.executor": "Run",
+    "Kotlin.Lesson10_SetsKt.executor": "Run",
     "Kotlin.Lesson8Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -74,7 +75,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Lesson10_SetsKt">
+  <component name="RunManager" selected="Kotlin.Lesson9Kt">
     <configuration name="Lesson10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.artemyeva.Lesson10Kt" />
       <module name="kotlin-course.main" />
@@ -103,8 +104,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lesson9Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.artemyeva.Lesson9Kt" />
+      <module name="kotlin-course.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Lesson9Kt" />
         <item itemvalue="Kotlin.Lesson10_SetsKt" />
         <item itemvalue="Kotlin.Lesson10_ListsKt" />
         <item itemvalue="Kotlin.Lesson10Kt" />
@@ -134,7 +143,7 @@
       <workItem from="1727026340588" duration="1358000" />
       <workItem from="1727074475540" duration="3319000" />
       <workItem from="1727516391838" duration="26188000" />
-      <workItem from="1728202408433" duration="11522000" />
+      <workItem from="1728202408433" duration="11755000" />
     </task>
     <task id="LOCAL-00001" summary="домашка">
       <option name="closed" value="true" />
