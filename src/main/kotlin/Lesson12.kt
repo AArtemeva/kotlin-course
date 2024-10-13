@@ -13,7 +13,6 @@ class Lesson12 {
 
     //Задача 3. Принимает строку и ничего не возвращает
     fun returnNothing(string: String){
-        return
     }
 
     //Задача 4. Принимает список целых чисел и возвращает целое значение типа дабл
@@ -22,6 +21,7 @@ class Lesson12 {
         for (elem in listNumber){
             result += elem.toDouble()
         }
+        return result
     }
 
     //Задача 5. Принимает nullable строку и возвращает ее длину в виде nullable целого числа
@@ -61,17 +61,20 @@ class Lesson12 {
 
     //Код 3.
     fun printNumbersUntil(n: Int){
-        if (n < 0) {
-            return for (nn in 1..n)
+        if (n < 1) {
+            return
         }
-        println(n)
+        for (nn in 1..n) {
+            println(nn)
+        }
     }
 
     //Код 4.
     fun findFirstNegative(listNumber: List<Int>): Int?{
         for (elem in listNumber){
-            if (elem < 0)
+            if (elem < 0) {
                 return elem
+            }
         }
          return  null
     }
@@ -83,6 +86,5 @@ class Lesson12 {
                 return
         }
     }
-
-
+    
 }
